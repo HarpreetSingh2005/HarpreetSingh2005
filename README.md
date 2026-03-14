@@ -109,7 +109,7 @@ Published : December 2025
 Patent    : IN 202511098477 A · Indian Patent Office
 Use Case  : Secure file transmission
 ```
-[![Patent](https://img.shields.io/badge/Patent-IN%20202511098477%20A-gold?style=for-the-badge&logo=google-scholar)](./assets/CubeCrypt_Patent.png)
+[![Patent](https://img.shields.io/badge/Patent-IN%20202511098477%20A-gold?style=for-the-badge&logo=google-scholar)](./Patent.png)
 ---
 
 ## `📡 Research Signal`
