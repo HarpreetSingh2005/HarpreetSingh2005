@@ -2,15 +2,19 @@
 <div align="center">
 
 ```
+
+
 ██╗  ██╗ █████╗ ██████╗ ██████╗ ██████╗ ███████╗███████╗████████╗    ███████╗██╗███╗   ██╗ ██████╗ ██╗  ██╗
 ██║  ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝╚══██╔══╝    ██╔════╝██║████╗  ██║██╔════╝ ██║  ██║
 ███████║███████║██████╔╝██████╔╝██████╔╝█████╗  █████╗     ██║       ███████╗██║██╔██╗ ██║██║  ███╗███████║
 ██╔══██║██╔══██║██╔══██╗██╔═══╝ ██╔══██╗██╔══╝  ██╔══╝     ██║       ╚════██║██║██║╚██╗██║██║   ██║██╔══██║
 ██║  ██║██║  ██║██║  ██║██║     ██║  ██║███████╗███████╗   ██║       ███████║██║██║ ╚████║╚██████╔╝██║  ██║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝       ╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
+
+
 ```
 
-### `> Building the decentralized web, one block at a time.`
+`> Building the decentralized web, one block at a time.`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=00D4FF&center=true&vCenter=true&width=600&lines=Blockchain+Developer;Smart+Contract+Engineer;Published+Researcher;3rd+Year+CSE+Student;Internal+SIH+2025+Award+Winner;Author+%7C+Pen+Name%3A+Mr.+Mulbbies)](https://git.io/typing-svg)
 
@@ -19,8 +23,11 @@
 ---
 
 
-## `who am i`
-<img align="right" style="margin-top: 40" alt="Blockchain GIF" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## `WhoAmI.sol`
+
+<table border="0">
+<tr>
+<td width="55%">
 
 ```solidity
 // SPDX-License-Identifier: MIT
@@ -30,9 +37,8 @@ contract HarpreetSinghGandhi {
 
     string public name     = "Harpreet Singh Gandhi";
     string public role     = "Blockchain Developer";
-    string public uni      = "Amity University Punjab";
-    uint8  public year     = 3;
-    bool   public openToWork = true;
+    string public status   = "Engineering Student";
+    bool public openToWork = true;
 
     string[] public stack = [
         "Solidity", "Hardhat", "Ethers.js",
@@ -44,31 +50,13 @@ contract HarpreetSinghGandhi {
         "Deployed smart contracts on Ethereum",
         "Published researcher @ ICIAS 2025",
         "Invented CubeCrypt algorithm",
-        "Also an Author of book Beyond LimitZ"  // yeah, both kinds of blocks
+        "Also an Author of book Beyond LimitZ" 
     ];
 }
 ```
+</td> <td width="45%"><img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"></td> </tr> </table>
 
 <br clear="right"/>
-
----
-
-## `⚡ Battle Stats`
-
-<div align="center">
-
-| Trophy | Achievement |
-|:------:|:-----------|
-| 📄 | **Published** — ICIAS 2025 International Conference |
-| 🔐 | **Patent Published** — CubeCrypt · IN 202511098477 A · Indian Patent Office |
-| ⚗️ | **Patent Filed** — TrustBelt Seatbelt Safety Device |
-| 🏆 | **2nd Place** — Internal Smart India Hackathon 2025 |
-| 🥈 | **2nd Place** — Logic League (DSA), Avikansha Fest 2025, NMIMS |
-| 🎯 | **4th Place** — Ignite Ideathon, University Level 2025 |
-| 📘 | **Author** — "Beyond LimitZ" (Pen: Mr. Mulbbies) |
-| 🪖 | **NCC 'A' Grade Certificate** |
-
-</div>
 
 ---
 
@@ -81,27 +69,24 @@ contract HarpreetSinghGandhi {
 Network  : Ethereum (Sepolia Testnet)
 Standard : ERC-20 compatible
 Stack    : Solidity · Hardhat · Ethers.js · React
-Status   : ✅ DEPLOYED
+Status   : DEPLOYED
 ```
-
 [![CrowdCoin Repo](https://img.shields.io/badge/CrowdCoin-View_Contract-%2300D4FF?style=for-the-badge&logo=ethereum)](https://github.com/HarpreetSingh2005/crowdcoin)
 
----
+
+
 
 ### **RWA Tokenization Platform** — Real World Asset Tokenizer
 > *"Fractional ownership of physical assets, on-chain."*
-
 ```
 Standard : ERC-1155 (multi-token)
 Stack    : Solidity · Hardhat · React
-Status   : 🔨 IN DEVELOPMENT
+Status   : IN DEVELOPMENT
 ```
 
----
 
 ### **CubeCrypt** — Novel Encryption Algorithm
 > *"Inspired by Rubik's Cube permutations. Because why not."*
-
 ```
 Language  : Python
 Type      : Symmetric Encryption
@@ -110,6 +95,7 @@ Patent    : IN 202511098477 A · Indian Patent Office
 Use Case  : Secure file transmission
 ```
 [![Patent](https://img.shields.io/badge/Patent-IN%20202511098477%20A-gold?style=for-the-badge&logo=google-scholar)](./Patent.png)
+
 ---
 
 ## `📡 Research Signal`
@@ -142,7 +128,9 @@ Use Case  : Secure file transmission
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-F7C948?style=for-the-badge&logo=hardhat&logoColor=black)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge)
+![Remix IDE](https://img.shields.io/badge/Remix_IDE-000000?style=for-the-badge)
+![Ganache](https://img.shields.io/badge/Ganache-E4A663?style=for-the-badge)
 
 **Languages**
 
@@ -196,31 +184,32 @@ Use Case  : Secure file transmission
 >
 > 🔐 **Cryptography & encryption design**
 >
-> 📄 **Getting published as an undergrad** ← people always ask this
+> 📄 **Getting published as an undergrad**
 >
 > ♟️ **Competitive chess strategy**
 
 ---
 
-## `🌱 Currently`
+## `⚡ Battle Stats`
 
-```bash
-$ git status
+<div align="center">
 
-On branch main
-Your branch is ahead of 'origin/main' by 1 commit
-  (keep pushing — the streak starts today)
+| Trophy | Achievement |
+|:------:|:-----------|
+| 📄 | **Published** — ICIAS 2025 International Conference |
+| 🔐 | **Patent Published** — CubeCrypt · IN 202511098477 A · Indian Patent Office |
+| ⚗️ | **Patent Filed** — TrustBelt Seatbelt Safety Device |
+| 🏆 | **2nd Place** — Internal Smart India Hackathon 2025 |
+| 🥈 | **2nd Place** — Logic League (DSA), Avikansha Fest 2025, NMIMS |
+| 🎯 | **4th Place** — Ignite Ideathon, University Level 2025 |
+| 📘 | **Author** — "Beyond LimitZ" (Pen: Mr. Mulbbies) |
+| 🪖 | **NCC 'A' Grade Certificate** |
 
-Changes in progress:
-  → RWA Tokenization Platform (ERC-1155)
-  → Learning: ZK Proofs · ERC-4337 Account Abstraction
-  → Seeking: Summer 2026 Blockchain / Web3 Internship
-
-Untracked files:
-  → Next big idea (classified 🔒)
-```
+</div>
 
 ---
+
+
 
 <div align="center">
 
