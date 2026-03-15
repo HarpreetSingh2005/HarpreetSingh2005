@@ -66,10 +66,12 @@ contract HarpreetSinghGandhi {
 > *"Kickstarter, but nobody can rug you."*
 
 ```
-Network  : Ethereum (Sepolia Testnet)
-Standard : ERC-20 compatible
-Stack    : Solidity · Hardhat · Ethers.js · React
-Status   : DEPLOYED
+Network          : Ethereum (Sepolia Testnet)
+Contract Address : 0xEFf4120B30B1F4c19EE490B39b37f5Bf536c300C
+Standard         : ERC-20 compatible
+Stack            : Solidity · Hardhat · Ethers.js · React
+Status           : DEPLOYED
+
 ```
 [![CrowdCoin Repo](https://img.shields.io/badge/CrowdCoin-View_Contract-%2300D4FF?style=for-the-badge&logo=ethereum)](https://github.com/HarpreetSingh2005/crowdcoin)
 
