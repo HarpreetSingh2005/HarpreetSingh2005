@@ -16,7 +16,7 @@
 
 `> Building the decentralized web, one block at a time.`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=00D4FF&center=true&vCenter=true&width=600&lines=Blockchain+Developer;Smart+Contract+Engineer;Published+Researcher;3rd+Year+CSE+Student;Internal+SIH+2025+Award+Winner;Author+%7C+Pen+Name%3A+Mr.+Mulbbies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(Web3);Smart+Contract+Engineer;Published+Researcher;3rd+Year+CSE+Student;Internal+SIH+2025+Award+Winner;Author+%7C+Pen+Name%3A+Mr.+Mulbbies)](https://git.io/typing-svg)
 
 </div>
 
@@ -120,9 +120,11 @@ Use Case  : Secure file transmission
 
 ---
 
+
 ## `🛠️ Arsenal`
 
 <div align="center">
+
 
 **Blockchain & Web3**
 
@@ -143,9 +145,20 @@ Use Case  : Secure file transmission
 **Frontend**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+
+### **Full-Stack Expertise**
+
+![MERN Stack](https://img.shields.io/badge/MERN_Full--Stack_Developer-%2300C7B7?style=for-the-badge)
+
 
 </div>
 
