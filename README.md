@@ -36,14 +36,15 @@ pragma solidity ^0.8.0;
 contract HarpreetSinghGandhi {
 
     string public name     = "Harpreet Singh Gandhi";
-    string public role     = "Blockchain Developer";
+    string public role     = "Full Stack Developer(Web3)";
     string public status   = "Engineering Student";
     bool public openToWork = true;
 
     string[] public stack = [
-        "Solidity", "Hardhat", "Ethers.js",
-        "ERC-20", "ERC-721", "ERC-1155",
-        "React.js", "Node.js", "Python"
+        "Node.js", "MongoDB", "React.js",
+        "Express.js", "Solidity", "Hardhat",
+        "Ethers.js", "ERC-20", "ERC-721",
+        "ERC-1155", "Python"
     ];
 
     string[] public superPowers = [
