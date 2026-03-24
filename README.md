@@ -48,9 +48,9 @@ contract HarpreetSinghGandhi {
     ];
 
     string[] public superPowers = [
+        "Invented CubeCrypt algorithm (Patent: IN 202511098477 A)",
         "Deployed smart contracts on Ethereum",
         "Published researcher @ ICIAS 2025",
-        "Invented CubeCrypt algorithm",
         "Also an Author of book Beyond LimitZ" 
     ];
 }
